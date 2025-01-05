@@ -156,3 +156,4 @@ cython_debug/
 .idea/
 .devcontainer/config/*
 !.devcontainer/config/configuration.yaml
+.DS_Store
